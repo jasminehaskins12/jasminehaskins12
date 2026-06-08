@@ -6,12 +6,12 @@
 
 ## 💫 About Me
 
-I am a digital storyteller and creative writer leveraging artificial intelligence to build deep narratives and compelling scripts.
+I am a digital storyteller, creative writer, and part-time mobile app developer leveraging artificial intelligence to build deep narratives, compelling scripts, and innovative mobile experiences. 
 
-- 🔭 **I’m currently working on:** Drafting original stories and screenplays through AI collaboration.
-- 🌱 **I’m currently learning:** Advanced prompt engineering for creative narrative structure and world-building.
-- 👯 **I’m looking to collaborate on:** Open-source creative writing projects, interactive fiction, or AI-driven multimedia scripts.
-- 💬 **Ask me about:** AI storytelling workflows, screenplay formatting, and character development.
+- 🔭 **I’m currently working on:** Drafting original stories and screenplays through AI collaboration, alongside developing custom iOS and Android applications.
+- 🌱 **I’m currently learning:** Advanced prompt engineering for creative narrative structure and cross-platform mobile frameworks.
+- 👯 **I’m looking to collaborate on:** Open-source creative writing projects, interactive fiction, mobile app development, or AI-driven multimedia scripts.
+- 💬 **Ask me about:** AI storytelling workflows, mobile app architecture (iOS & Android), screenplay formatting, and character development.
 - 📫 **How to reach me:** [jasminehaskins12@gmail.com](mailto:jasminehaskins12@gmail.com)
 - 😄 **Pronouns:** She / Her
 - ⚡ **Fun fact:** I was friends with Raven-Symoné Pearman Mayday for a short while!
@@ -23,6 +23,12 @@ I am a digital storyteller and creative writer leveraging artificial intelligenc
 ### Storytelling & Design
 <p align="left">
   <img src="https://img.shields.io/badge/Markdown-E0115F?style=for-the-badge&logo=markdown&logoColor=white" alt="Ruby Red Markdown" />
+</p>
+
+### Mobile Development & Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
 ### Version Control & Platforms
